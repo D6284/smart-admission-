@@ -1,0 +1,7 @@
+{
+  "name": "Smart Admission System",
+  "description": "Unlock Your Future with smart admission system. A sophisticated, full-featured school admission system featuring student registration, admin management, and automated admission number generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
